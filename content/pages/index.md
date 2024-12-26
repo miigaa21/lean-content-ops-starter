@@ -12,7 +12,7 @@ sections:
       UX/UI 3 жилийн туршлагатай. Доош гүйлгэж хийсэн ажлуудтай минь танилцана
       уу :) 
     actions:
-      - label: Get started
+      - label: Холбоо барих
         altText: ''
         url: /
         showIcon: false

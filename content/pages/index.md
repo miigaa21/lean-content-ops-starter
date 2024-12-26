@@ -148,7 +148,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: 2021-2024
       color: text-primary
       styles:
         self:

@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: M
+      label: Myagmarsuren gantumur
       color: text-primary
       type: Badge
     elementId: ''

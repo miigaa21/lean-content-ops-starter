@@ -22,7 +22,7 @@
         },
         {
             "label": "Ажлууд",
-            "altText": "Blog",
+            "altText": "Ажлууд",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
